@@ -15,7 +15,7 @@ the letters W, B, or x
 implement the ALPHA-BETA pruning algorithm instead of the MINIMAX. 
 
 ## To run the programs 
-## javac ABOpening.java 
-## java ABopening
-## javac ABGame.java 
-## java ABGame
+* javac ABOpening.java *
+* java ABopening *
+* javac ABGame.java *
+* java ABGame *
