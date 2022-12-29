@@ -1,4 +1,4 @@
-# Nine Men Morris Game:Artificial Intelligence 
+# Nine Men Morris Game: Artificial Intelligence 
 ## Background
 The Morris Game, also known as Nine Men's Morris, is a two-player board game that has been played for centuries. The game is played on a board consisting of 23 intersections, and each player starts with 9 pieces that can be placed on the intersections. The objective of the game is to capture your opponent's pieces by forming a line of three pieces on the board, known as a mill. The first player to reduce their opponent to only 2 pieces, or block their opponent from making any further moves, wins the game. </br>
 
