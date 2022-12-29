@@ -9,13 +9,13 @@ One way of representing a board position in the Morris Game is by using an array
 ## Install 
 1. Make sure you have the Java Development Kit (JDK) installed on your computer.
 2. Open a terminal or command prompt window and navigate to the directory where you have saved the game files.
-3. Compile the ABOpening.java file by running the command 
+3. Compile the ABOpening.java file by running the command  </br>
  *javac ABOpening.java*
-5. Run the ABOpening class by typing 
+5. Run the ABOpening class by typing </br>
 *java ABopening*
-7. Compile the ABGame.java file by running the command 
+7. Compile the ABGame.java file by running the command </br>
  *javac ABGame.java*
-8. Run the ABGame class by typing 
+8. Run the ABGame class by typing </br>
 *java ABGame*
 
 
